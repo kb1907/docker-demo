@@ -1,0 +1,6 @@
+catboost
+Flask
+requests
+gunicorn
+jsonify
+flake8
