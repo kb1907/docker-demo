@@ -17,6 +17,6 @@ jobs:
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d--%M-%S')"
     - name: Build the Docker image # push The image to the docker hub
-      run: docker build . --file Dockerfile --tag $DOCKER_USER/demo
+      run: docker build . --file Dockerfile --tag $DOCKER_USER/catboost-model:${{ steps.date.outputs.date }}
     - name: Docker Push
-      run: docker push $DOCKER_USER/demo
+      run: docker push $DOCKER_USER/catboost-model:${{ steps.date.outputs.date }}

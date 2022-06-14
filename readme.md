@@ -1,6 +1,8 @@
-# Docker-Demo
+[![This a workflow title](https://github.com/kb1907/docker-demo/actions/workflows/push-docker-image.yaml/badge.svg)](https://github.com/kb1907/docker-demo/actions/workflows/push-docker-image.yaml)
 
-Docker demo folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
+# Docker-Flask-GithubActions-DockerHub Pipeline Demo
+
+Docker-Flask-GithubActions-DockerHub Pipeline demo folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
 New environment
 
