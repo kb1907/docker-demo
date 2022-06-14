@@ -1,5 +1,3 @@
-[![Python application](https://github.com/kb1907/MLOPS-Flask-Heroku/actions/workflows/CI-CD.yaml/badge.svg)](https://github.com/kb1907/MLOPS-Flask-Heroku/actions/workflows/CI-CD.yaml)
-
 # Docker-Demo
 
 Docker demo folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
